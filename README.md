@@ -115,12 +115,10 @@ results = knowledge_base.search("环境保护措施")
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/toc-parser.git
+git clone https://github.com/Tsetmefree/toc-parser.git
 cd toc-parser
 
-# 安装依赖
-pip install -r requirements.txt
-```
+
 
 **依赖包：**
 ```
@@ -314,26 +312,14 @@ def chunk_analysis(toc_json, model="gpt-4"):
 
 ---
 
-## 📈 性能测试
 
-在标准测试集上的表现：
-
-| 文档类型 | 页数 | 章节数 | 处理时间 | 准确率 |
-|---------|------|--------|---------|--------|
-| 环评报告 | 350 | 58 | 2.3s | 98% |
-| 技术手册 | 120 | 35 | 0.8s | 100% |
-| 学术论文 | 45 | 12 | 0.3s | 95% |
-
-**测试环境：** Intel i7-10700, 16GB RAM, Python 3.9
-
----
 
 ## 🤝 贡献指南
 
 我们欢迎各种形式的贡献！
 
 ### 提交 Bug
-- 请在 [Issues](https://github.com/yourusername/toc-parser/issues) 中详细描述问题
+- 请在 [Issues](https://github.com/Tsetmefree/toc-parser/issues) 中详细描述问题
 - 附上样本文档（脱敏后）和错误日志
 
 ### 功能建议
@@ -363,14 +349,6 @@ def chunk_analysis(toc_json, model="gpt-4"):
 
 ---
 
-## 📞 联系方式
-
-- **作者**：Your Name
-- **邮箱**：your.email@example.com
-- **项目主页**：https://github.com/yourusername/toc-parser
-- **问题反馈**：https://github.com/yourusername/toc-parser/issues
-
----
 
 ## 🌟 Star History
 
