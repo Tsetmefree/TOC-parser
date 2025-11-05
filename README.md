@@ -354,7 +354,7 @@ def chunk_analysis(toc_json, model="gpt-4"):
 
 如果这个项目对你有帮助，请给我们一个 ⭐️ Star！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/toc-parser&type=Date)](https://star-history.com/#yourusername/toc-parser&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Tsetmefree/toc-parser&type=Date)](https://star-history.com/#Tsetmefree/toc-parser&Date)
 
 ---
 
